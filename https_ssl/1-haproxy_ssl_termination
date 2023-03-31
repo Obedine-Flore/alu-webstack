@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# this script creates an ssl certificate
+# this script creates an sslcertificate
 
 frontend www-http
     bind *:80
